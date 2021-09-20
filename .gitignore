@@ -2,8 +2,7 @@
 .vscode/
 
 # test
-test.py
-test.db
+*.db
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
